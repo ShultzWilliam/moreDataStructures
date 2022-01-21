@@ -3,9 +3,9 @@ This repository contains a variety of different data structures which can be use
 
 ## Currently Implemented Structures
 - [x] Singly Linked List
+- [X] Doubly Linked List
 
 ## To-Do List (Will add more structures as time goes on)
-- [ ] Doubly Linked List
 - [ ] Circular Linked List
 - [ ] Stack
 - [ ] Heap
