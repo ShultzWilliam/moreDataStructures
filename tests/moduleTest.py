@@ -6,7 +6,7 @@
 #Initial Upload: January 21, 2022
 #Last Updated: January 21, 2022
 
-import listModule as ll
+import structures.listModule as ll
 
 def testLinkedListModule() -> None:
     randomSingleNode = ll.linkedListNode("Alan")
